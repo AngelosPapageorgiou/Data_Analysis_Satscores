@@ -1,6 +1,6 @@
-## Data_Analysis_Satscores
+# Data_Analysis_Satscores
 
-# SAT Score Analysis Across U.S. States
+## SAT Score Analysis Across U.S. States
 
 This project analyzes SAT score data from various U.S. states to explore how educational and socioeconomic variables relate to student performance. The analysis combines descriptive statistics, data visualization, and linear regression modeling.
 
