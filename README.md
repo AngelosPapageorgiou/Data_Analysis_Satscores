@@ -16,7 +16,7 @@ The analysis includes:
 
 **Regression Modeling**: Building and evaluating linear models to explain or predict SAT Total score using predictors like COST and PERCENT.
 
-**Model Assumption Checks**: Linearity, homoscedasticity (Levene's test), normality of residuals (Shapiro-Wilk test), and influential points.
+**Model Assumption Checks**: Linearity, homoscedasticity (Levene's test), normality of residuals (Shapiro-Wilk test).
 
 
 Technologies
