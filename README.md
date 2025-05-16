@@ -16,11 +16,11 @@ Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scipy)
 - Data file format: `.sav` (SPSS)
 - 
-# Notes
+### Notes
 
 - The dataset includes variables such as `COST`, `RATIO`, `SALARY`, `PERCENT`, `VERBAL`, `MATH`, and `TOTAL`.
 - Linear models were compared and validated through both statistical tests and graphical diagnostics.
 - A logarithmic transformation was applied to improve model linearity.
 
-# Disclaimer # 
+### Disclaimer 
 I can't upload the dataset because i don't have the permission to do it. The repo contains ONLY the code I made.
