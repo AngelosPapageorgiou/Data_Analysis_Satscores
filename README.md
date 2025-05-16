@@ -5,6 +5,7 @@
 This project analyzes SAT score data from various U.S. states to explore how educational and socioeconomic variables relate to student performance. The analysis combines descriptive statistics, data visualization, and linear regression modeling.
 
 The analysis includes:
+
 **Data Import & Cleaning**: Reading `.sav` file, handling missing values, creating categorical variables.
 
 **Descriptive Statistics**: Summary statistics, histograms, skewness, kurtosis, and coefficient of variation.
